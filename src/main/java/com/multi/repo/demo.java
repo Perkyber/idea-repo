@@ -9,6 +9,6 @@ package com.multi.repo;
 public class demo {
     public static void main(String[] args) {
         System.out.println("ab");
-        System.out.println("用户B做出修改");
+        System.out.println("用户B新增内容");
     }
 }
