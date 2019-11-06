@@ -8,6 +8,6 @@ package com.multi.repo;
  */
 public class demo {
     public static void main(String[] args) {
-        System.out.println("ab");
+        System.out.println("用户A做出修改");
     }
 }
